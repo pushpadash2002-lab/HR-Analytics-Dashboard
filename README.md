@@ -61,7 +61,7 @@ The dashboard shows what components drive the most of attrition cost
 - Productivity Loss Cost
 - Exit Cost
 ## Dashboard Preview
-![Dashboard Screenshot](./Employee-Attrition-Cost-Analysis-Dashboard.png)
+![Dashboard Screenshot](HR-Anaytics-Dashboard/Employee-Attrition-Cost-Analysis-Dashboard.png)
 ## Key Insights
 - Overall Attrition Levels.
 - Departments and job-level incurring highest attrition cost.
